@@ -28,3 +28,10 @@
 - yuehan & yuyan: Open route Service
 - shuyu: convert SA2 to postcode
 - qihan：solution to predict income and population
+
+
+***27/Sep***
+- zesong: Preparing predictive models
+- yuehan & yuyan:  Integration of data
+- shuyu: convert SA2 to postcode
+- qihan：find useful feature for livable and affordable metric

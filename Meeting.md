@@ -35,3 +35,10 @@
 - yuehan & yuyan:  Integration of data
 - shuyu: convert SA2 to postcode
 - qihan：find useful feature for livable and affordable metric
+
+
+***2/Oct***
+- zesong: predicting income
+- yuehan & yuyan:  modify model
+- shuyu: convert predicting 
+- qihan：third question

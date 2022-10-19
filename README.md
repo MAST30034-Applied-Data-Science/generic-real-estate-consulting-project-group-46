@@ -25,7 +25,7 @@ The aim of this project is to collect data on rental accommodation in Victoria a
 3. The most liveable and affordable suburbs 
 
 
-**Data:** Due to the data is large, please visit this link: , download data.zip and replace the original blank data folder.
+**Data:** Due to the data is large, please visit this link: https://drive.google.com/file/d/1eJPqe2hDvxzEFwRpgA0n6JVrtTfkKXoH/view?usp=sharing , download data.zip and replace the original blank data folder.
 
 
 

@@ -51,10 +51,15 @@ The aim of this project is to collect data on rental accommodation in Victoria a
 7. `failed_prediction.ipynb`: This noteboooks is for linear regression model to predict top 10 suburb directlly. However, the model were not used in the final presentation due to data limitations and lack of accuracy. you could skip this notebook. 
 
 
-**Stage three:** top 10 suburbs with the highest predicted growth rate.
+**Stage three:** top 10 suburbs with the highest predicted growth rate, please visit the `stage3` folder.
 
-8. `geo_pro.ipynb`: This notebook is used to preprocesse the data for geospatial visualisation
+8. `LA.ipynb`: This notebook is used to preprocesse the data for geospatial visualisation
 
 
+**Visualisation:** Charts and graphs to help with analysis and presentation, please visit the `Visualisation` folder.
+
+9. `geo.ipynb` and `geo2.ipynb` : Geo visualisation
+
+10. `line_chart.ipynb`: Line chart of some housing data in VIC 
 
 

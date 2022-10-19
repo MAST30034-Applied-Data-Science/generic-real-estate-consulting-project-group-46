@@ -2,7 +2,8 @@
 
 **Intro:**
 
-
+This project was completed by the University of MelbourneMAST30034 2022 Group 46.
+The aim of this project is to collect data on rental accommodation in Victoria and to predict the future direction of rental prices.
 
 **Team members:**
 
@@ -31,7 +32,7 @@
 
 **Preprocessing:** To run the pipeline, please visit the `notebooks` directory and run the files in order:
 
-1. `data.ipynb`: This notebook is used to scrape data from Domian, please note, as the process takes a lot of time, the completed json file already exists in data.zip, so you could skip this notebook. 
+1. `data.ipynb`: This notebook is used to scrape data from Domian, please note the scraping process takes a lot of time, the completed json file already exists in data.zip, so you could skip this notebook. 
 
 2. `preprocess.ipynb`: This notebook is used to preprocess the data and generate some csv that will be useful for later research.
 
